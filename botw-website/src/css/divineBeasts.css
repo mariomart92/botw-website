@@ -1,0 +1,84 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-color: #fdffe0;
+}
+
+/* Navbar */
+
+li a {
+    color: #fdffe0 !important;
+}
+
+ul li a:hover {
+    background-color: #fdffe0;
+    color: #536f50 !important;
+    border-radius: 10%;
+}
+
+.bg-dark {
+    background-color: #536f50 !important;
+}
+
+.dropdown-menu {
+    background-color: #536f50;
+    border: none;
+}
+
+.dropdown-item {
+    color: #fdffe0;
+}
+
+.dropdown-item:hover {
+    background-color: #fdffe0;
+    color: #536f50 !important;
+    border-radius: 0;
+}
+
+a.navbar-brand {
+    color: #fdffe0 !important;
+}
+
+a.navbar-brand:hover {
+    color: #000 !important;
+}
+
+/* Divine Beasts Styles */
+
+.container {
+    text-align: center;
+    padding: 1rem;
+}
+
+h1 {
+    font-size: 2.18em;
+    padding-bottom: .5em;
+}
+
+/* Footer */
+
+footer {
+    background: #536f50;
+    padding: .2em;
+}
+
+footer p {
+    color: #fdffe0;
+}
+
+footer p a {
+    text-decoration: none;
+    color: #fdffe0;
+}
+
+footer p a:hover {
+    color: #000;
+}
+
+i {
+    color: #fdffe0;
+    padding: 0 .3em;
+}
+
+i:hover {
+    color: #000;
+}
